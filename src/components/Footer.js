@@ -18,7 +18,7 @@ function Footer() {
                     <EmailIcon />
                 </a>
             </div>
-            <p>&copy; 2023 muthuk7.com</p>
+            <p>&copy; 2023  All rights reserved</p>
         </div>
     );
 }
